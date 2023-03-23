@@ -20,10 +20,6 @@ If you find my repo useful, let me know OR ☕ consider buying me a coffee! http
 Regards,
 Mikiko
 
-![alt text](
-       https://github.com/MMBazel/springboard-program/blob/master/Additional%20Resources/profile_pic_jpeg.jpg?raw=true
-      )
-
 
 --------------------------------------------------------------------------------------------------------------------------------
 # Project List by Unit of Study
